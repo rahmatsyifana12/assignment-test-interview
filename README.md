@@ -1,3 +1,8 @@
+Technologies:
+* Java
+* Spring Boot
+* PostgreSQL
+
 How to use:
 
 Open `application.properties` file by going to `src` -> `main` -> `resources` -> `application.properties`. The file will be displayed like this.
